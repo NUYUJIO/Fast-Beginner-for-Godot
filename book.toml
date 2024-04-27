@@ -1,0 +1,6 @@
+[book]
+authors = ["singularLWH"]
+language = "en"
+multilingual = false
+src = "src"
+title = "beginner"

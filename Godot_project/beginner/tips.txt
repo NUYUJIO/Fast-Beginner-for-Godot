@@ -1,0 +1,19 @@
+# tips
+
+- 按住 ctrl+D 可以选中相同的文本
+
+- 选中一个节点，按 ctrl+A 可为其添加子节点
+
+- 节点图层覆盖顺序从下往上覆盖，节点越靠下，图层越上层
+
+- 调整sprite图片大小时试试 alt，shift
+
+- ctrl+shift+o 打开场景选择
+
+- CollisionObject2D中的 Layer是当前节点所在层，别的节点的Mask层能检测到这个节点的Layer层，如果相同的话。
+
+当前节点的Mask层能检测其他节点的Layer层。
+
+- For anyone else that encounters mobs sticking to the player when they collide from above, be sure to disable all moving platform layers of the `CharacterBody2D` nodes. In the Inspector panel of the `CharacterBody2D` nodes for both the player and mob, expand `CharacterBody2D` > `Moving Platform` and disable all layers in `Floor Layers`.
+
+对于从上方碰撞时遇到粘在玩家身上的生物的其他人，请务必禁用“CharacterBody2D”节点的所有移动平台层。在玩家和生物的“CharacterBody2D”节点的检查器面板中，将“CharacterBody2D”展开>“移动平台”，并禁用“地板层”中的所有图层。
