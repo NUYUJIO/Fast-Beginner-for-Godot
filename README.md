@@ -4,6 +4,8 @@
 
 类型：2D Vampire Survivor Style 
 
+**注意： 还没搞明白怎么给代码高亮提示**
+
 电子书网址：[Beginner](https://nuyujio.github.io/Fast-Beginner-for-Godot/) 
 
 ---
