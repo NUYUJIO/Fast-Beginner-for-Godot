@@ -2,7 +2,11 @@
 
 包含了创建的电子书以及项目工程文件
 
-类型：2D Vampire Survivor Style  
+类型：2D Vampire Survivor Style 
+
+电子书网址：[Beginner](https://nuyujio.github.io/Fast-Beginner-for-Godot/) 
+
+---
 
 视频原地址（油管，需要梯子）：[Your First 2D GAME From Zero with GODOT 4! Vampire Survivor Style](https://www.youtube.com/watch?v=GwCiGixlqiU) 
 
